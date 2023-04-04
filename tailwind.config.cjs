@@ -14,7 +14,7 @@ module.exports = {
         lineHeight: '0.5rem'
       }],
       '5xl': ['3rem', {
-        lineHeight: '1'
+        lineHeight: '3.25rem'
       }],
     },
     extend: {
