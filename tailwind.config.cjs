@@ -1,23 +1,21 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
-  theme: {
-    extend: {},
-  },
+  // theme: {},
   plugins: [],
   theme: {
-    fontFamily: {
-      'main': ['Inter', 'sans-serif'],
-    },
-    fontSize: {
-      'xxxs': ['0.5rem', {
-        lineHeight: '0.5rem'
-      }],
-      '5xl': ['3rem', {
-        lineHeight: '3.25rem'
-      }],
-    },
     extend: {
+      fontFamily: {
+        'main': ['Inter', 'sans-serif'],
+      },
+      fontSize: {
+        'xxxs': ['0.5rem', {
+          lineHeight: '0.5rem'
+        }],
+        '5xl': ['3rem', {
+          lineHeight: '3.25rem'
+        }],
+      },
       keyframes: {
         happfacefade: {
           '0%':   {opacity: '1'},
