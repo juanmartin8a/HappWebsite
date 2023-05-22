@@ -7,7 +7,7 @@
     <h1 class="text-3xl sm:text-4xl font-semibold pb-6">Privacy Policy for Happ</h1>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">Introduction</h2>
-    <p class="pb-4">Welcome to Happ - the exclusive event platform designed with your privacy in mind. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains what information we collect from you, how we use it, the lawful basis of it, and how we uphold your rights in respect to this information. By using our app, you are agreeing to the terms outlined in this policy. Please read it carefully.</p>
+    <p class="pb-4">Welcome to Happ - the exclusive event platform designed with your privacy in mind. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains what information we collect from you, how we use it, the lawful basis of it, and how we uphold your rights in respect to this information. By using our app, you are agreeing to our <a href="https://www.happ.rsvp/legal/terms-of-use" target="_blank" class="text-blue-700">Terms of Use</a> and the terms outlined in this policy. Please read carefully.</p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">Information We Collect and How We Use It</h2>
     <p class="pb-4">
@@ -25,7 +25,7 @@
     
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">Consent</h2>
     <p class="">
-      Before you register for an account with Happ, you will be asked to check a box indicating that you have read, understood, and agree to our <a href="https://www.happ.rsvp/legal/terms-of-use" target="_blank" class="text-blue-700">terms of use</a>, which include this Privacy Policy. This explicit agreement represents your informed consent to our data collection and use practices.<br><br>
+      Before you register for an account with Happ, you will be asked to check a box indicating that you have read, understood, and agree to our <a href="https://www.happ.rsvp/legal/terms-of-use" target="_blank" class="text-blue-700">Terms of Use</a>, which include this Privacy Policy. This explicit agreement represents your informed consent to our data collection and use practices.<br><br>
 
       During the use of Happ, we may ask for your consent to collect specific types of data. This includes:<br><br>
     </p>
