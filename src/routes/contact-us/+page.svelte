@@ -7,7 +7,7 @@
       Need a hand with our app?
     </p>
     <p class="text-white font-main font-semibold">
-      Drop us a line at: juanmarzabala8a@gmail.com
+      Drop us a line at: happ@happ.rsvp
     </p>
   </div>
 </body>

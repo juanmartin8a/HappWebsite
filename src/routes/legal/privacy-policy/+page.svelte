@@ -35,7 +35,7 @@
       <li>Access to your device's photo gallery, if you choose to upload photos as part of the event details.<br><br></li>
     </ul>
     <p class="pb-4">
-      You have the right to withdraw your consent at any time. If you wish to withdraw your consent, you can do so by changing the relevant settings on your device or contacting us at juanmarzabala8a@gmail.com.
+      You have the right to withdraw your consent at any time. If you wish to withdraw your consent, you can do so by changing the relevant settings on your device or contacting us at happ@happ.rsvp.
     </p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">Data Retention and Deletion</h2>
@@ -48,11 +48,11 @@
     </p>
     
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">User Rights</h2>
-    <p class="pb-4">You have the right to access, correct, or delete your personal data. We will comply with valid requests to exercise your data subject rights in accordance with the applicable laws in your region. To exercise these rights, contact us at juanmarzabala8a@gmail.com.</p>
+    <p class="pb-4">You have the right to access, correct, or delete your personal data. We will comply with valid requests to exercise your data subject rights in accordance with the applicable laws in your region. To exercise these rights, contact us at happ@happ.rsvp.</p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">Children’s Privacy</h2>
     <p class="pb-4">
-      We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at juanmarzabala8a@gmail.com.<br><br>
+      We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at happ@happ.rsvp.<br><br>
       In the event that we learn that we have collected personal information from a child under the age of consent in their country of residence outside the United States, we will delete that information. If you believe that a child under the age of consent in their country of residence has provided us with personal information, please contact us and we will take steps to delete such information and terminate the child's account.
     </p>
   
@@ -66,6 +66,6 @@
     <p class="pb-6">We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and, where appropriate, notifying you via email or within our app.</p>
 
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">Contact Us</h2>
-    <p class="pb-6">If you have any questions about this Privacy Policy, please contact us at juanmarzabala8a@gmail.com.</p>
+    <p class="pb-6">If you have any questions about this Privacy Policy, please contact us at happ@happ.rsvp.</p>
   </div>
 </body>

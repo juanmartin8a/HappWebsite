@@ -36,7 +36,7 @@
       <li>Put your full name at the end of the notice as your 'signature'.<br><br></li>
     </ul>
     <p class="pb-4">
-      Send this notice, with all the information, to juanmarzabala8a@gmail.com.
+      Send this notice, with all the information, to happ@happ.rsvp.
     </p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">5. User Content</h2>
@@ -52,13 +52,13 @@
     <p class="pb-4">To the maximum extent permitted by law, in no event shall Happ, its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages. Please note that this clause applies 'to the extent permitted by applicable law'.</p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">8. Governing Law</h2>
-    <p class="pb-4">These Terms shall be governed and construed in accordance with the laws of the state of Delaware, United States. This provision will be clarified upon finalization of the company's location.</p>
+    <p class="pb-4">These Terms shall be governed and construed in accordance with the laws of the state of Delaware, United States.</p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">9. Dispute Resolution</h2>
     <p class="pb-4">Any disputes or claims relating to these Terms or your use of Happ will be resolved through negotiation, and if necessary, mediation or arbitration, before resorting to litigation. The specific process and location for any arbitration will be determined in accordance with the laws of the state of Delaware, United States.</p>
   
     <h2 class="text-xl sm:text-2xl font-semibold pb-1">10. Contact Us</h2>
-    <p class="pb-6">If you have any questions or concerns about these Terms, or about your personal data, please don't hesitate to contact us at juanmarzabala8a@gmail.com. Whether your inquiry is related to general terms or specific data protection issues, we're here to assist you.</p>
+    <p class="pb-6">If you have any questions or concerns about these Terms, or about your personal data, please don't hesitate to contact us at happ@happ.rsvp. Whether your inquiry is related to general terms or specific data protection issues, we're here to assist you.</p>
   
     <p>Please review these Terms and Conditions carefully and check them periodically for changes. Your continued use of Happ signifies your acceptance of the updated Terms.</p>
     <div class="h-6"/>
