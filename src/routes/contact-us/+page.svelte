@@ -6,7 +6,7 @@
     <p class="pb-5 text-5xl text-white font-main font-semibold">
       Need a hand with our app?
     </p>
-    <p class="text-white font-main font-semibold">
+    <p class="text-white font-main font-medium">
       Drop us a line at: happ@happ.rsvp
     </p>
   </div>
