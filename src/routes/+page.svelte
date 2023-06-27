@@ -5,7 +5,7 @@
   <div class="flex flex-row w-full h-16 absolute">
     <a class="place-self-center ml-auto mr-6" href="https://www.happ.rsvp/contact-us">
       <p class="text-sm hover:underline underline-offset-2 hover:cursor-pointer text-white font-main font-normal">
-        Contact Us
+        Contact us
       </p>
     </a>
   </div>
